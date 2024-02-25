@@ -6,6 +6,7 @@ use log::debug;
 use std::path::PathBuf;
 
 mod cli;
+mod data;
 mod items;
 mod solver;
 

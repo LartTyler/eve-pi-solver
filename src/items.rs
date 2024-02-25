@@ -1,10 +1,8 @@
+use crate::solver::Tier;
+use serde::Deserialize;
 use std::collections::HashMap;
 use std::fs;
 use std::path::Path;
-
-use serde::Deserialize;
-
-use crate::solver::Tier;
 
 #[derive(Debug, thiserror::Error)]
 pub enum ItemError {

@@ -1,7 +1,7 @@
 label: J103326
 planets:
     -
-        label: I
+        label: J103326 I
         type_label: Lava
         owned: false
         tax_rate: 0.10
@@ -12,7 +12,7 @@ planets:
             non_cs_crystals: 0.78
             suspended_plasma: 0.40
     -
-        label: II
+        label: J103326 II
         type_label: Barren
         owned: false
         tax_rate: 0.10
@@ -23,7 +23,7 @@ planets:
             microorganisms: 0.67
             noble_metals: 0.46
     -
-        label: III
+        label: J103326 III
         type_label: Temperate
         owned: false
         tax_rate: 0.10
@@ -34,7 +34,7 @@ planets:
             complex_organisms: 0.41
             microorganisms: 0.58
     -
-        label: IV
+        label: J103326 IV
         type_label: Barren
         owned: false
         tax_rate: 0.10
@@ -45,7 +45,7 @@ planets:
             microorganisms: 0.67
             noble_metals: 0.42
     -
-        label: V
+        label: J103326 V
         type_label: Oceanic
         owned: false
         tax_rate: 0.10
@@ -56,7 +56,7 @@ planets:
             microorganisms: 0.80
             planktic_colonies: 0.66
     -
-        label: VI
+        label: J103326 VI
         type_label: Temperate
         owned: false
         tax_rate: 0.10
@@ -67,7 +67,7 @@ planets:
             complex_organisms: 0.35
             microorganisms: 0.48
     -
-        label: VII
+        label: J103326 VII
         type_label: Barren
         owned: false
         tax_rate: 0.10
@@ -78,7 +78,7 @@ planets:
             microorganisms: 0.70
             noble_metals: 0.38
     -
-        label: VIII
+        label: J103326 VIII
         type_label: Gas
         owned: false
         tax_rate: 0.10
@@ -89,7 +89,7 @@ planets:
             noble_gas: 0.83
             reactive_gas: 0.40
     -
-        label: IX
+        label: J103326 IX
         type_label: Barren
         owned: false
         tax_rate: 0.10
